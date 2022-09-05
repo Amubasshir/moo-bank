@@ -3,7 +3,7 @@ import styles from '../style';
 
 const GetStarted = () => (
   <div
-    className={`${styles.flexCenter} w-[100px] h-[100px] rounded-full bg-blue-gradient p-[2px] ml-12 cursor-pointer `}
+    className={`${styles.flexCenter} w-[120px] h-[120px] rounded-full bg-blue-gradient p-[2px] ml-12 cursor-pointer `}
   >
     <div
       className={`${styles.flexCenter} flex-col bg-primary w-[100%] h-[100%] rounded-full`}
