@@ -11,7 +11,7 @@ const Footer = () => (
           alt="moobank"
           className="w-[256px] h-[68.14px] object-contain"
         />
-        <p className={`${styles.paragraph} mt-4 max-w-[312px]`}>
+        <p className={`${styles.paragraph} mt-4 max-w-[277px]`}>
           A new way to make the payments easy, reliable and secure.
         </p>
       </div>
