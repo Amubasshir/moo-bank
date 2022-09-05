@@ -70,7 +70,7 @@ export const feedback = [
   {
     id: 'feedback-2',
     content:
-      "Money makes your life easier. If you're lucky to have it, you're lucky.",
+      "Money makes your life easier. If you're lucky to have it, you're lucky.So make it count.",
     name: 'Steve Mark',
     title: 'Founder & Leader',
     img: people02,
@@ -172,8 +172,8 @@ export const footerLinks = [
 export const socialMedia = [
   {
     id: 'social-media-1',
-    icon: instagram,
-    link: 'https://www.instagram.com/',
+    icon: twitter,
+    link: 'https://twitter.com/lastmubasshir',
   },
   {
     id: 'social-media-2',
@@ -182,13 +182,13 @@ export const socialMedia = [
   },
   {
     id: 'social-media-3',
-    icon: twitter,
-    link: 'https://www.twitter.com/',
+    icon: instagram,
+    link: 'https://www.instagram.com/',
   },
   {
     id: 'social-media-4',
     icon: linkedin,
-    link: 'https://www.linkedin.com/',
+    link: 'https://www.linkedin.com/in/mubasshirahmed7/',
   },
 ];
 
