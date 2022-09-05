@@ -24,10 +24,13 @@ const Hero = () => {
             The Next <br className="sm:block hidden" />{' '}
             <span className="text-gradient">Generation</span>{' '}
           </h1>
+          <div className="ss:flex hidden md:mr-0 mr-0 mt-8">
+            <GetStarted />
+          </div>
         </div>
 
         <h1 className="font-poppins font-semibold ss:text-[68px] text-[52px] text-white ss:leading-[100.8px] leading-[75px] w-full">
-          Payment Method<span className="text-gradient">...</span>
+          Payment <br /> Method <span className="text-gradient">...</span>
         </h1>
         <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
           Our team of experts uses a methodology to identify the credit cards
@@ -42,7 +45,7 @@ const Hero = () => {
         <img
           src={robot}
           alt="billing"
-          className="w-[100%] h-[100%] relative z-[5]"
+          className="w-[100%] h-[100%] relative z-[5] mb-8"
         />
 
         {/* gradient start */}
