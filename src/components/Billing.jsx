@@ -24,7 +24,7 @@ const Billing = () => (
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
         Bills&Invoice has always been an integral part of every business.
         Therefore, it’s important for every business, whether small or big, to
-        manage their business bills well.
+        manage their business bills at ease.
       </p>
 
       <div className="flex flex-row flex-wrap sm:mt-10 mt-6">
